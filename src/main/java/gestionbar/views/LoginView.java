@@ -19,12 +19,12 @@ public class LoginView {
 
         try {
             while (true) {
-                String usuario = consola.leerTexto("Usuario (0 para salir)");
+                String usuario = consola.leerTexto("Usuario (0 para salir - 'admin')");
                 if ("0".equals(usuario)) {
                     return false;
                 }
 
-                String clave = consola.leerTexto("Contraseña");
+                String clave = consola.leerTexto("Contraseña '1234'");
                 if (loginController.iniciarSesion(usuario, clave)) {
                     return true;
                 }
