@@ -1,0 +1,10 @@
+MSR0001,MESERO,Lionel,Messi,true
+MSR0002,MESERO,Julian,Alvarez,true
+MSR0003,MESERO,Rodrigo,De Paul,true
+MSR0004,MESERO,Lautaro,Martinez,true
+MSR0005,MESERO,Enzo,Fernandez,true
+MSR0006,MESERO,Alexis,Mac Allister,true
+MSR0007,MESERO,Emiliano,Martinez,true
+MSR0008,MESERO,Cristian,Romero,true
+MSR0009,MESERO,Leandro,Paredes,true
+MSR0010,MESERO,Nicolas,Otamendi,true
